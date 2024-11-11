@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Frequently Asked Questions
+      text: Most Asked Questions
       color: text-dark
       styles:
         self:
