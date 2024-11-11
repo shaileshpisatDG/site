@@ -86,7 +86,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Feature highlights of recent release
     items:
       - type: FeaturedItem
         title: 500k
