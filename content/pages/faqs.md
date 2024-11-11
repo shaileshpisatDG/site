@@ -176,7 +176,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: This is a badge
+      label: 11/09/2024
       color: text-primary
       styles:
         self:
