@@ -21,7 +21,7 @@ sections:
       security access, other members of your team can access this data as well.
     actions:
       - type: Button
-        label: See open positions
+        label: Know more
         url: /
         icon: arrowRight
         iconPosition: right
