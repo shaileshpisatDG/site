@@ -166,7 +166,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: See releases
         altText: ''
         url: /
         showIcon: false
