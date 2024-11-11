@@ -12,11 +12,13 @@ sections:
           textAlign: center
     subtitle: ServiceBelt | PoolBelt | PoolTech
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Everything you need to run your business from anywhere and manage cash
+      flow. Never again pull up to a gate without the code or customers contact
+      information. Never again waste time taking paper work orders and entering
+      them into your invoicing system. Never again waste time to see if the
+      customer has paid their most recent invoice. With Pool Belt you have
+      access to all the most up-to-date information with you. And with proper
+      security access, other members of your team can access this data as well.
     actions:
       - type: Button
         label: See open positions
