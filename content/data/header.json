@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "FAQs",
-            "url": "/pricing",
+            "url": "/faqs",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
