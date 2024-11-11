@@ -81,7 +81,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: Recent Release
       color: text-dark
       styles:
         self:
