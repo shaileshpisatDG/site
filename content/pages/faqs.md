@@ -52,7 +52,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Most Asked Questions
       color: text-dark
       styles:
         self:
